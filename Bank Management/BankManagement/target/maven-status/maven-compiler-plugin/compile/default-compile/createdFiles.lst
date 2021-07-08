@@ -1,0 +1,9 @@
+com\wipro\BankManagement\domain\SavingsTransaction.class
+com\wipro\BankManagement\domain\PrimaryAccount.class
+com\wipro\BankManagement\controller\HomeController.class
+com\wipro\BankManagement\domain\User.class
+com\wipro\BankManagement\domain\SavingsAccount.class
+com\wipro\BankManagement\domain\Recipient.class
+com\wipro\BankManagement\domain\Appointment.class
+com\wipro\BankManagement\domain\PrimaryTransaction.class
+com\wipro\BankManagement\BankManagementApplication.class
